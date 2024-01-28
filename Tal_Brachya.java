@@ -3,7 +3,7 @@ public class Tal_Brachya{
     {
         for (int i=1;i<=10;i++)
         {
-            System.out.println("Tal_Brachya"+i);
+            System.out.println("Tal_"+i);
         }
     }
 }
